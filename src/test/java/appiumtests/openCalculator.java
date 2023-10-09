@@ -30,7 +30,7 @@ public class openCalculator {
 	}
 	
 
-
+   
 	
 	public static void openCalc() throws Exception{
 		try {
